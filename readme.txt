@@ -1,4 +1,4 @@
-# Discord Backup Bot
+# Discord Backup Bot JOINE MEINEM DISCORD GERNE https://discord.gg/Xv8UynvgZp https://discord.gg/Xv8UynvgZp
 
 Dieser Discord-Bot erstellt regelmäßig Backups einer MySQL-Datenbank und lädt sie in einen Discord-Kanal hoch.
 
